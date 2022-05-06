@@ -5,6 +5,6 @@ Il database conterrà tutte le informazioni necessarie del ciclo di vita di un p
 - la creazione dell’utente 
 - creazione del progetto 
 -  crezione delle classi
--  creazuibe  dei package
+-  creazione  dei package
 -  la chiusura di un progetto o di una classe 
 -  i vari Test effettuati.
